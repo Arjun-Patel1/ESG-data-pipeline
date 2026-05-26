@@ -1,5 +1,5 @@
 #put gemini key here direclty as this is assignment I am using direclty. Else I can create .env file.
-GEMINI_API_KEY ="AIzaSyDdNQOCQbX2rb7KA_6NdkDIxOt3eXhyuAA"
+GEMINI_API_KEY ="put gemini api key here"
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
